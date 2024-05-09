@@ -9,7 +9,7 @@
     <p align="center">
       <a href="mailto:devinduffymeade@gmail.com"><img src="https://img.shields.io/badge/-CONTACT ME-magenta" alt=" Contact Me"></a>
       <a href="https://github.com/devinfiachra"><img src="https://img.shields.io/badge/-%20MY PORTFOLIO-magenta" alt=" Portfolio"></a>
-      <a href="https://github.com/devinfiachra"><img src="https://img.shields.io/badge/-%20MY CV-magenta" alt=" My CV"></a>
+      <a href="https://www.linkedin.com/in/devinduffymeade/"><img src="https://img.shields.io/badge/-%20MY CV-magenta" alt=" My CV"></a>
     </p>
   </div>
   <div>
