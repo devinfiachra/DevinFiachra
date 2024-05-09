@@ -1,7 +1,6 @@
 
 <h1 align="center">Hello there. I'm Devin Fiachra!</h1>
       <p align="left">I'm currently work in product operations at <a href="https://www.deliveryhero.com/">Delivery Hero</a> and study software development at <a href="https://42berlin.de/de/about-us/">42 Berlin</a>.</p> 
-      <img src="">
       <div align="center">
       <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,nodejs,express,cypress,postman,git,mongodb,aws,react" alt="Tech Stack Icons">
       </div>
