@@ -15,7 +15,7 @@
   <div>
     <p align="center">
       <a href="https://github.com/devinfiachra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinfiachra&layout=compact" alt="Top Langs">
+        <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devinfiachra&hide_progress=true)" alt="Top Langs">
       </a>
     </p>
   </div>
