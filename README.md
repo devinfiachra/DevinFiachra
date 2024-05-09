@@ -5,6 +5,7 @@
       <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,nodejs,express,cypress,postman,git,mongodb,aws,react" alt="Tech Stack Icons">
       <br>
       </div>
+      <br>
     <p align="center">
       <a href="mailto:devinduffymeade@gmail.com"><img src="https://img.shields.io/badge/-CONTACT ME-magenta" alt=" Contact Me"></a>
       <a href="https://github.com/devinfiachra"><img src="https://img.shields.io/badge/-%20MY PORTFOLIO-magenta" alt=" Portfolio"></a>
