@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**devinfiachra/DevinFiachra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hello there. I'm Devin Fiachra!</h1>
+      <p align="left">I'm currently work in product operations at <a href="https://www.deliveryhero.com/">Delivery Hero</a> and study software development at <a href="https://42berlin.de/de/about-us/">42 Berlin</a>.</p> 
+      <img src="">
+      <div align="center">
+      <img src="https://skillicons.dev/icons?i=c,html,css,js,ts,nodejs,express,cypress,postman,git,mongodb,aws,react" alt="Tech Stack Icons">
+      </div>
+    <p align="center">
+      <a href="mailto:devinduffymeade@gmail.com"><img src="https://img.shields.io/badge/-CONTACT ME-magenta" alt=" Contact Me"></a>
+      <a href="https://github.com/devinfiachra"><img src="https://img.shields.io/badge/-%20MY PORTFOLIO-magenta" alt=" Portfolio"></a>
+      <a href="https://github.com/devinfiachra"<img src="https://img.shields.io/badge/-%20MY CV-magenta" alt=" My CV"></a>
+    </p>
+  </div>
+  <div>
+    <p align="center">
+      <a href="https://github.com/devinfiachra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinfiachra&layout=compact" alt="Top Langs">
+      </a>
+    </p>
+  </div>
+</div>
